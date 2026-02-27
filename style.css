@@ -11,11 +11,11 @@ main {
 }
 
 h1, h2 {
-  color: #333;
+  color: #1554c9;
 }
 
 footer {
   margin-top: 40px;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #000000;
   padding-top: 10px;
 }
